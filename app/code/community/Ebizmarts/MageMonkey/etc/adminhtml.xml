@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <config>
     <menu>
-        <newsletter>
+        <marketing>
             <children>
                 <magemonkey translate="title" module="monkey">
                     <title>MailChimp</title>
@@ -35,7 +35,7 @@
                     </children>
                 </magemonkey>
             </children>
-        </newsletter>
+        </marketing>
     </menu>
     <acl>
         <resources>
